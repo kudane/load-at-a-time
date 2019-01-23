@@ -1,7 +1,7 @@
 # load-at-a-time
 A load images by Sequential
 
-## purpose
+## Purpose
     * lerning a javascript
     * create own library, 555
     
