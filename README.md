@@ -2,7 +2,7 @@
 A load images by Sequential
 
 ## Purpose
-    * lerning a javascript
+    * learning a javascript
     * create own library, 555
     
 ## Todo
